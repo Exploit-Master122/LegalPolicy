@@ -6,4 +6,6 @@
 - In the Discord server,no NSFW. I know that's not part of the website,but...Why?? ***(AHHHHHHHHHH)***
 - The Iframe source code is open source,so you can fork it as you please! Just star and give me some credit,becasue I worked very hard on this! =-)
 - ***THE SOURCE CODE IS RESERVED YET OPEN SOURCE!! IF YOU FIND THE PASSWORD,YOU ARE A GITHUB PRO.(Most of the kids in my school don't know a thing about coding)***
+- Government laws will be changed.Today,Tommorrow,the Intended.Making the earth better. Bit,by bit.
+
 
